@@ -14,7 +14,8 @@
   <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img width="50px" src="https://icones.pro/wp-content/uploads/2021/06/icone-github-violet.png" />
   <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <a href="https://br.linkedin.com/in/pedro-lucas-miranda-franco-2199281b6"><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
+  <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
+ 
   <br>
 </div>
 
