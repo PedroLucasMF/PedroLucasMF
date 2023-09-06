@@ -1,9 +1,8 @@
 # Welcome to my profile
 
--  Hi, I’m @PedroLucasMF
+-  Hi, I’m @PedroLucasMF at the moment i'm studying Front-End and Data Base on Senai.
 -  I’m interested in become a Full-Stack Dev and work with Data-Base and Game development. 
 -  I’m currently learning Front-End, Back-End and as a hobby i'm learning some basic concepts about game development.
--  My interess are: Be a Full-Stack Dev, a Game Dev and write some book.
 -  How to reach me: contact me by my Email pedrolucas3049@gmail.com.
 ## Languages and Tools
 <div style="inline-block">
