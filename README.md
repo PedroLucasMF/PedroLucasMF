@@ -1,10 +1,6 @@
-# Welcome to my profile
-
--  Hi, I’m @PedroLucasMF Graduated in Front-End and Data-Base on Senai.
--  Studying Systems Analysis and Development at IESB University
--  I’m interested in become a Data Analist. 
--  I’m currently learning Full-stack development and Data-Base also as a hobby i'm learning some basic concepts about game development.
--  How to reach me: contact me by my Email pedrolucas3049@gmail.com.
+-  Hi, I’m @PedroLucasMF a Full-Stack Dev and a Data Analist.
+-  In my profile you will find some basic and study projects
+-  You can contact me by my email: pedrolucas3049@gmail.com
 ## Languages and Tools
 <div style="inline-block">
   <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
